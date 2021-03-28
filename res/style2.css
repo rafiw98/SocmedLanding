@@ -128,7 +128,7 @@ footer a {
 }
 
 @media (prefer-color-scheme: dark) {
-  body.
+  body,
   aside {
     background: black;
     color: white;
